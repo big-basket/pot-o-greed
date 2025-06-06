@@ -1,1 +1,2 @@
-# pot-o-greed
+# Pot O Greed
+a gambling bot 
